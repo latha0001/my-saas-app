@@ -41,7 +41,7 @@ To run this application, you need a modern web browser that supports HTML5, CSS3
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/lathakadavath/medannotate.git
+   git clone https://github.com/latha0001/my-saas-app
    ```
 2. Navigate to the project directory:
    ```sh
